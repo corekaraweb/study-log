@@ -5,3 +5,17 @@
 - Java Bronze資格合格（81%）
 - GitHubのリポジトリ整理
 - Java Silver 紫本（P2～P67）
+
+### 今日のコメント
+
+1ヶ月くらい対策してたJava Bronze試験に合格できて一安心。
+
+## 2026年4月12日
+
+- Java Silver 紫本（P68～P156）
+
+### 今日のコメント
+
+「挫折しないReactの教科書　作りながら学ぶWeb開発」Kindle版を購入。<br>
+Spring Bootの本とJavaアンチパターンの本も気になる。<br>
+環境構築して実際にWebアプリを作るのはSilver合格してからかな。
