@@ -5,8 +5,17 @@
 
 ## 使用書籍
 
-- Java Bronze 紫本
+- かやのき先生の基本情報
+- Webクリエイターエキスパート
+- Java Bronze 白本
 - Java Bronze 黒本
 - Java Silver 紫本
 - Java Silver 黒本
 - 挫折しないReactの教科書
+
+## すでに持ってる資格（2026年4月13日時点）
+
+- 基本情報技術者
+- 応用情報技術者
+- 情報セキュリティスペシャリスト
+- Java Bronze
