@@ -7,8 +7,9 @@
 
 - かやのき先生の基本情報
 - Webクリエイターエキスパート
-- Java Bronze 白本（済）
-- Java Bronze 黒本（済）
+- 1冊ですべて身につくHTML&CSSとWebデザイン入門講座
 - Java Silver 紫本
 - Java Silver 黒本
 - 挫折しないReactの教科書
+- Java Bronze 白本（済）
+- Java Bronze 黒本（済）
