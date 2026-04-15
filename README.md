@@ -11,5 +11,6 @@
 - Java Silver 紫本
 - Java Silver 黒本
 - 挫折しないReactの教科書
+- サーバー技術者養成講座[改訂4版]
 - Java Bronze 白本（済）
 - Java Bronze 黒本（済）
