@@ -83,4 +83,9 @@ WindowsとLinuxのデュアルブートできるPCが完成！<br>
 ## 2026年4月17日
 
 - Java Silver 黒本（P12～P204）
+- Webクリエイターエキスパート
 
+### 今日のコメント
+予定通りJava Silverを5月に取得。その後、Java Goldを7月か8月にとる。
+秋から、Spring Bootでアプリ開発をしながら、ReactとLaravelを勉強する。
+社労士試験が終わる8月までにどこまで進められるかが勝負だなー。
