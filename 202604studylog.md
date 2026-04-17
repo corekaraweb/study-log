@@ -96,3 +96,5 @@ WindowsとLinuxのデュアルブートできるPCが完成！<br>
 昨日注文したハブとLANケーブルが到着したので、サーバ技術者養成講座のための環境構築の続き。<br>
 とりあえずこれでハード面の構築は終了！<br>
 続きは明日にして第01日目を完了させる。<br>
+
+<img src="https://raw.githubusercontent.com/corekaraweb/study-log/refs/heads/main/images/20260417_001.jpg">
