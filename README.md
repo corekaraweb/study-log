@@ -10,6 +10,7 @@
 - 1冊ですべて身につくHTML&CSSとWebデザイン入門講座
 - Java Silver 紫本
 - Java Silver 黒本
+- AWS CLF 黒本
 - 挫折しないReactの教科書
 - サーバ技術者養成講座[改訂4版]
 - （済）Java Bronze 白本
