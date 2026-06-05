@@ -47,3 +47,9 @@ Java Silverの試験対策やることがなくなってきたなー。<br>
 試験まであと1週間ちょっと。早く合格したい気持ちと、受験するのが怖い気持ちもある。<br>
 AmazonでSpring Bootの本を買ったけど、Java Silverの勉強で身に付けた知識が結構役に立ちそう。<br>
 Java Silver合格したら、Spring BootとJava Goldの勉強を並行して進めよう。
+
+## 2026年6月5日
+
+- Java Silver 黒本（全体復習）
+
+### 今日のコメント
