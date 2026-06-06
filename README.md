@@ -16,8 +16,13 @@
 - Java Silver 黒本
 - Java Gold 紫本
 - Java Gole 黒本
+- 新明解 Javaで学ぶアルゴリズムとデータ構造
 - AWS CLF 黒本
 - AWS SAA 黒本
+- 手を動かしてわかるSpring Boot入門
+- AWS1年生クラウドのしくみ
+- 1週間でAWS認定資格の基礎が学べる本
+- つくって壊して直してまなぶ Git&GitHub入門
 - 挫折しないReactの教科書
 - サーバ技術者養成講座［改訂4版］
 - （済）Java Bronze 白本
