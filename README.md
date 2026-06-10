@@ -19,7 +19,9 @@
 - AWS CLF 黒本
 - AWS SAA 黒本
 - はじめてのPHPエンジニア入門
+- PHPフレームワークLaravel入門
 - これからのJavaScriptの教科書
+- プロフェッショナルWebプログラミング React
 - 挫折しないReactの教科書
 - つくって壊して直してまなぶ Git&GitHub入門
 - サーバ技術者養成講座［改訂4版］
