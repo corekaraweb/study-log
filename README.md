@@ -12,8 +12,6 @@
 - かやのき先生の基本情報
 - Webクリエイターエキスパート
 - 1冊ですべて身につくHTML&CSSとWebデザイン入門講座
-- Java Silver 紫本
-- Java Silver 黒本
 - AWS1年生クラウドのしくみ
 - 1週間でAWS認定資格の基礎が学べる本
 - AWS CLF 黒本
@@ -35,6 +33,8 @@
 
 ### 終わったやつ
 
+- （済）Java Silver 紫本
+- （済）Java Silver 黒本
 - （済）Java Bronze 白本
 - （済）Java Bronze 黒本
 
@@ -48,7 +48,6 @@
 
 - AWS CLF問題集
 - AWS SAA問題集
-- OSS-DB Silver(Ver3.0)問題集
 
 ## Udemy講座
 
