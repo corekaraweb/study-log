@@ -3,14 +3,14 @@
 2026年4月から始めた勉強ログです。<br>
 月ごとに管理しています。
 
-# 現在進行中のタスク（2026年8月27日時点）
+# 現在進行中のタスク（2026年9月6日時点）
 
 - AWS SAA対策
-- Java Gold SE17対策
 - LLMO・AIO学習
 - SpringBoot学習
 - Laravel学習
 - TypeScript学習
+- Claude Code学習
 - AWS上でLaravelが動作する環境を作る
 - ポートフォリオサイト制作（React+TypeScript版）
 - 写真ブログ記事更新（WordPress版 オリジナルテーマ）
@@ -24,6 +24,8 @@
 
 ## 書籍
 
+- AWS SAA 白本
+- AWS SAA 黒本
 - 新・集客メソッド LLMO対策の教科書
 - これからはじめる AIO AI最適化の教科書
 - 今すぐできる LLMO・AIO AI最適化実践テクニック1000
@@ -31,10 +33,6 @@
 - 店舗やサロンのためのLLMO集客・販促の教科書
 - 生成AI x SEO
 - 60分でわかる！LLMO超入門
-- Java Gold 紫本
-- Java Gole 黒本
-- AWS SAA 白本
-- AWS SAA 黒本
 - はじめてのPHPエンジニア入門
 - PHPフレームワークLaravel入門
 - これからのJavaScriptの教科書
@@ -50,6 +48,8 @@
 
 ### 終わったやつ
 
+- （済）Java Gold 紫本
+- （済）Java Gole 黒本
 - （済）AWS1年生クラウドのしくみ
 - （済）1週間でAWS認定資格の基礎が学べる本
 - （済）AWS CLF 黒本
