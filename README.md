@@ -3,10 +3,9 @@
 2026年4月から始めた勉強ログです。<br>
 月ごとに管理しています。
 
-# 現在進行中のタスク（2026年9月20日時点）
+# 現在進行中のタスク（2026年9月26日時点）
 
 - AWS SAA対策
-- LLMO・AIO学習
 - SpringBoot学習
 - Laravel学習
 - TypeScript学習
@@ -14,8 +13,6 @@
 - AWS上でLaravelが動作する環境を作る
 - ポートフォリオサイト制作（React+TypeScript版）
 - AIエージェント開発（Claude Code）
-- 写真ブログ記事更新（WordPress版 オリジナルテーマ）
-- AIブログ記事更新（WordPress版 JIN:R）
 - Qiita記事更新
 - Zenn記事更新
 
