@@ -27,6 +27,7 @@
 - AWS SAA 白本
 - AWS SAA 黒本
 - プロフェッショナルWebプログラミング React
+- PHPフレームワークLaravel入門
 - これからはじめるLaravel実践入門
 - Agentic Coding Claude Code 実践入門
 - Claude Code 実用入門
