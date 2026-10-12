@@ -3,14 +3,11 @@
 2026年4月から始めた勉強ログです。<br>
 月ごとに管理しています。
 
-# 現在進行中のタスク（2026年9月26日時点）
+# 現在進行中のタスク（2026年10月10日時点）
 
 - AWS SAA対策
-- SpringBoot学習
-- Laravel学習
-- TypeScript学習
-- Claude Code学習
-- AWS上でLaravelが動作する環境を作る
+- Clade Code ハーネス設計の学習
+- ポートフォリオサイト制作（Laravel+React）
 - ポートフォリオサイト制作（React+TypeScript版）
 - AIエージェント開発（Claude Code）
 - Qiita記事更新
