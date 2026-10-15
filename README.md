@@ -6,6 +6,7 @@
 # 現在進行中のタスク（2026年10月10日時点）
 
 - AWS SAA対策
+- Java Spring Bootの学習
 - Clade Code ハーネス設計の学習
 - ポートフォリオサイト制作（Laravel+React）
 - ポートフォリオサイト制作（React+TypeScript版）
