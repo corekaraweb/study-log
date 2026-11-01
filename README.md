@@ -3,13 +3,13 @@
 2026年4月から始めた勉強ログです。<br>
 月ごとに管理しています。
 
-# 現在進行中のタスク（2026年10月10日時点）
+# 現在進行中のタスク（2026年11月1日時点）
 
-- AWS SAA対策
-- Java Spring Bootの学習
-- Clade Code ハーネス設計の学習
 - ポートフォリオサイト制作（Laravel+React）
-- ポートフォリオサイト制作（React+TypeScript版）
+- ポートフォリオサイト制作（React+TypeScript）
+- PHP・JavaScriptの基礎復習
+- JavaScriptライブラリ勉強（GSAP・Swiper）
+- Clade Code ハーネス設計の学習
 - AIエージェント開発（Claude Code）
 - Qiita記事更新
 - Zenn記事更新
@@ -22,11 +22,11 @@
 
 ### 今やってる
 
-- AWS SAA 白本
-- AWS SAA 黒本
+- これからはじめるLaravel実践入門
 - プロフェッショナルWebプログラミング React
 - PHPフレームワークLaravel入門
-- これからはじめるLaravel実践入門
+- ちゃんとしたプロにるPHP基礎入門（復習）
+- 1冊ですべて身につくJavaScript入門講座（復習）
 - Agentic Coding Claude Code 実践入門
 - Claude Code 実用入門
 - Claude Code 徹底活用術
@@ -34,6 +34,8 @@
 
 ### これからやる
 
+- これからのJavaScriptの教科書
+- 挫折しないReactの教科書
 - 新・集客メソッド LLMO対策の教科書
 - 今すぐできる LLMO・AIO AI最適化実践テクニック1000
 - 10年つかえるSEOの基本 改訂新版
@@ -42,8 +44,6 @@
 - 60分でわかる！LLMO超入門
 - はじめてのPHPエンジニア入門
 - PHPフレームワークLaravel入門
-- これからのJavaScriptの教科書
-- 挫折しないReactの教科書
 - 手を動かしてわかるSpring Boot入門
 - 新明解 Javaで学ぶアルゴリズムとデータ構造
 - つくって壊して直してまなぶ Git&GitHub入門
@@ -51,6 +51,8 @@
 
 ### 終わったやつ
 
+- （済）AWS SAA 白本
+- （済）AWS SAA 黒本
 - （済）Java Gold 紫本
 - （済）Java Gole 黒本
 - （済）AWS1年生クラウドのしくみ
@@ -73,17 +75,13 @@
 - デイトラWebデザインコース
 - デイトラShopifyコース
 
-## Ping-t
+## Udemy講
 
-- AWS SAA問題集
-
-## Udemy講座
-
-- 【SAA-C03版】AWS認定ソリューションアーキテクト アソシエイト模擬試験問題集（6回分390問）
 - 2026最新！Dockerをゼロから学び、開発環境構築からデプロイを自動化！即戦力になるためのDoker入門!
 - 超JavaScript 完全ガイド 2026
 
 ### 終わったやつ
 
+- （済）【SAA-C03版】AWS認定ソリューションアーキテクト アソシエイト模擬試験問題集（6回分390問）
 - （済）【CLF-C02版】これだけでOK! AWS認定クラウドプラクティショナー試験突破講座（豊富な試験問題300問付き）
 - （済）【AIF-C01】AWSトップ講師によるAWS認定AIプラクティショナー模擬試験問題集（4回分260問）
