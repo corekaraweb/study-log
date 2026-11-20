@@ -3,13 +3,14 @@
 2026年4月から始めた勉強ログです。<br>
 月ごとに管理しています。
 
-# 現在進行中のタスク（2026年11月19日時点）
+# 現在進行中のタスク（2026年11月20日時点）
 
 - ポートフォリオサイト制作（Laravel+React）
 - ポートフォリオサイト制作（React+TypeScript）
 - AIエージェント開発（Claude Code）
 - LinuC レベル1勉強
 - AWS SAP勉強
+- SQL勉強
 - Clade Code ハーネス設計の学習
 - Qiita記事更新
 - Zenn記事更新
@@ -27,6 +28,7 @@
 - PHPフレームワークLaravel入門
 - LinuCレベル1 教科書
 - LinuCレベル1 問題集
+- スッキリわかるSQL入門
 - ちゃんとしたプロになるPHP基礎入門（復習）
 - 1冊ですべて身につくJavaScript入門講座（復習）
 - Agentic Coding Claude Code 実践入門
