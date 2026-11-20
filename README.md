@@ -11,12 +11,15 @@
   - ポートフォリオサイト制作（WordPress）
   - ポートフォリオサイト制作（Claude Code）
 - 資格関係
-  - LinuC レベル1勉強
-  - AWS SAP勉強
+  - LinuC レベル1
+  - AWS SAP
   - 社会福祉士
 - 技術関係
-  - SQL勉強
-  - Clade Code ハーネス設計の学習
+  - SQL
+  - Claude Codeハーネス設計
+- マーケティング・SNS関係
+  - LLMO・AIO
+  - SNSマーケティング
 - その他
   - Qiita記事更新
   - Zenn記事更新
@@ -38,13 +41,14 @@
   - Agentic Coding Claude Code 実践入門
   - Claude Code 実用入門
   - Claude Code 徹底活用術
-  - これからはじめる AIO AI最適化の教科書
 - プログラミング関係
   - これからはじめるLaravel実践入門
   - プロフェッショナルWebプログラミング React
   - PHPフレームワークLaravel入門
   - ちゃんとしたプロになるPHP基礎入門（復習）
   - 1冊ですべて身につくJavaScript入門講座（復習）
+- マーケティング・SNS関係
+  - これからはじめる AIO AI最適化の教科書
 
 ### これからやる
 
@@ -64,6 +68,11 @@
   - 店舗やサロンのためのLLMO集客・販促の教科書
   - 生成AI x SEO
   - 60分でわかる！LLMO超入門
+- マーケティング・SNS関係
+  - PDCAを回して結果を出す Instagram集客・運用マニュアル
+  - SNS集客の教科書 完全版
+  - 店舗やサロンのためのInstagram集客・販促の教科書
+  - インスタ投稿30日間
 
 ### 終わったやつ
 
