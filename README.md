@@ -7,7 +7,8 @@
 
 - ポートフォリオサイト制作（Laravel+React）
 - ポートフォリオサイト制作（React+TypeScript）
-- AIエージェント開発（Claude Code）
+- ポートフォリオサイト制作（WordPress）
+- ポートフォリオサイト制作（Claude Code）
 - LinuC レベル1勉強
 - AWS SAP勉強
 - SQL勉強
@@ -28,6 +29,7 @@
 - PHPフレームワークLaravel入門
 - LinuCレベル1 教科書
 - LinuCレベル1 問題集
+- すらすらと手が動くようになる SQL書き方ドリル
 - スッキリわかるSQL入門
 - ちゃんとしたプロになるPHP基礎入門（復習）
 - 1冊ですべて身につくJavaScript入門講座（復習）
