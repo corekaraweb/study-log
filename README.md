@@ -5,16 +5,21 @@
 
 # 現在進行中のタスク（2026年11月20日時点）
 
-- ポートフォリオサイト制作（Laravel+React）
-- ポートフォリオサイト制作（React+TypeScript）
-- ポートフォリオサイト制作（WordPress）
-- ポートフォリオサイト制作（Claude Code）
-- LinuC レベル1勉強
-- AWS SAP勉強
-- SQL勉強
-- Clade Code ハーネス設計の学習
-- Qiita記事更新
-- Zenn記事更新
+- ポートフォリオ関係
+  - ポートフォリオサイト制作（Laravel+React）
+  - ポートフォリオサイト制作（React+TypeScript）
+  - ポートフォリオサイト制作（WordPress）
+  - ポートフォリオサイト制作（Claude Code）
+- 資格関係
+  - LinuC レベル1勉強
+  - AWS SAP勉強
+  - 社会福祉士
+- 技術関係
+  - SQL勉強
+  - Clade Code ハーネス設計の学習
+- その他
+  - Qiita記事更新
+  - Zenn記事更新
 
 # 使用している学習教材
 
@@ -24,36 +29,41 @@
 
 ### 今やってる
 
-- これからはじめるLaravel実践入門
-- プロフェッショナルWebプログラミング React
-- PHPフレームワークLaravel入門
-- LinuCレベル1 教科書
-- LinuCレベル1 問題集
-- すらすらと手が動くようになる SQL書き方ドリル
-- スッキリわかるSQL入門
-- ちゃんとしたプロになるPHP基礎入門（復習）
-- 1冊ですべて身につくJavaScript入門講座（復習）
-- Agentic Coding Claude Code 実践入門
-- Claude Code 実用入門
-- Claude Code 徹底活用術
-- これからはじめる AIO AI最適化の教科書
+- 資格関係
+  - LinuCレベル1 教科書
+  - LinuCレベル1 問題集
+- 技術関係
+  - すらすらと手が動くようになる SQL書き方ドリル
+  - スッキリわかるSQL入門
+  - Agentic Coding Claude Code 実践入門
+  - Claude Code 実用入門
+  - Claude Code 徹底活用術
+  - これからはじめる AIO AI最適化の教科書
+- プログラミング関係
+  - これからはじめるLaravel実践入門
+  - プロフェッショナルWebプログラミング React
+  - PHPフレームワークLaravel入門
+  - ちゃんとしたプロになるPHP基礎入門（復習）
+  - 1冊ですべて身につくJavaScript入門講座（復習）
 
 ### これからやる
 
-- これからのJavaScriptの教科書
-- 挫折しないReactの教科書
-- 新・集客メソッド LLMO対策の教科書
-- 今すぐできる LLMO・AIO AI最適化実践テクニック1000
-- 10年つかえるSEOの基本 改訂新版
-- 店舗やサロンのためのLLMO集客・販促の教科書
-- 生成AI x SEO
-- 60分でわかる！LLMO超入門
-- はじめてのPHPエンジニア入門
-- PHPフレームワークLaravel入門
-- 手を動かしてわかるSpring Boot入門
-- 新明解 Javaで学ぶアルゴリズムとデータ構造
-- つくって壊して直してまなぶ Git&GitHub入門
-- サーバ技術者養成講座［改訂4版］
+- プログラミング関係
+  - これからのJavaScriptの教科書
+  - 挫折しないReactの教科書
+  - はじめてのPHPエンジニア入門
+  - PHPフレームワークLaravel入門
+  - 手を動かしてわかるSpring Boot入門
+  - 新明解 Javaで学ぶアルゴリズムとデータ構造
+- 技術関係
+  - つくって壊して直してまなぶ Git&GitHub入門
+  - サーバ技術者養成講座［改訂4版］
+  - 新・集客メソッド LLMO対策の教科書
+  - 今すぐできる LLMO・AIO AI最適化実践テクニック1000
+  - 10年つかえるSEOの基本 改訂新版
+  - 店舗やサロンのためのLLMO集客・販促の教科書
+  - 生成AI x SEO
+  - 60分でわかる！LLMO超入門
 
 ### 終わったやつ
 
